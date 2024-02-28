@@ -25,4 +25,5 @@ jobs:
 
       - name: Run Tests
         run: |
+          cd /home/runner/work/UserProfileProject/UserProfileProject/
           python manage.py test
