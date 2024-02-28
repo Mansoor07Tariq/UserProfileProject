@@ -60,6 +60,14 @@ This Django project is a simple user profile management application where users 
 
    Visit [http://127.0.0.1:8000/profile/create/](http://127.0.0.1:8000/profile/create/) in your browser to access the user profile creation form.
 
+## Run Test Cases
+
+1. Run the development server:
+
+   ```bash
+   python manage.py test
+   ```
+
 ## Project Structure
 
 - `UserProfileProject/`: Django project folder.
