@@ -16,7 +16,7 @@ This Django project is a simple user profile management application where users 
 1. Clone the repository:
 
    ```bash
-   git clone link
+   git clone https://github.com/Mansoor07Tariq/UserProfileProject.git
    ```
 
 2. Create a virtual environment:
